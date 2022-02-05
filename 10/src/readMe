@@ -1,0 +1,13 @@
+
+Constructor with and without parameters + Loading methods+copy constructor +
+this and its use + Date Class + LocalDate class.
+
+this will be used : כאשר יש התנגשות בין שם של תכונה לשם של משתנה כלומר להכריז שהמשתנה מגיע מתכונה של מחלקה
+הפעלה של קונס אחד מקונס אחר כדי לנקז את כל האתחולים למקום אחד
+התייחסות לאובייקט המפעיל
+
+
+Date
+LocalDate
+DateTimeFormatter.ofPattern("dd/MM/yyyy");
+TemporalAdjusters.firstDayOfNextMonth()) //and more options after the dot !!!
