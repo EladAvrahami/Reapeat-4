@@ -5,7 +5,7 @@
  7 - array, find max in array , define bunch of arrays ,int array, tow dimensional array , shool grades array , short loop item , how many same digit at num exercies , function java ,void ,function several parameter.</br>
  9 -  what is class ? , attributes & methods ,create clock ,Getter+Setter , publice vs privet mizraci bank ,</br>
  this.(Property or method of the class) , set in Main , array of Objects , The String memory problem , EQUALS string by Value & by Ref , #StringBuffer and some of it abilities 
-  ,Exe sort array of object 
+  ,Exe sort array of object </br>
  10 - constructor copy constructor + this + #LocalDate Class .</br>
   </br>
  ***OOP*** </br>
