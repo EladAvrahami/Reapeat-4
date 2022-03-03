@@ -11,4 +11,5 @@
  ***OOP*** </br>
  11(1) - Inheritance   , Super vs This ,modifiers: Protected + defualt ,Final class -can't do @Override to methods, Abstruct class 7 file , extends - can worrk only once per class. </br>
  11(2) - Interface  , implements several interfaces to class by "," , interfaceAble name , firest extend and after that implements , Loose Coupling ,look at interface1 + summary.
- 
+ </br>
+ 12 - Array, Collections ,AarrayList , LinkedList , Loop Via +/ HashMap , HashSet , Iterator , Set .
