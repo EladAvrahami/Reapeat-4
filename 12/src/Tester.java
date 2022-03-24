@@ -4,6 +4,8 @@ import java.util.Arrays;
  * 1הגדר שני מערכים שמספרים בגודל 15 מס1 מס2 ומאתחלת אותם בספרות באופן אקראי
  * ספרות יכולות להופיע כמה פעמים באותו מערך
  *
+ *
+ * הקלטה 12 דקה 56
  * */
 public class Tester {
     public static void main(String[] args) {
