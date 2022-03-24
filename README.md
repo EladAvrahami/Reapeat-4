@@ -13,4 +13,4 @@
  11(2) - Interface  , implements several interfaces to class by "," , interfaceAble name , firest extend and after that implements , Loose Coupling ,look at interface1 + summary.
  </br>
  12 - Array, Collections ,AarrayList , LinkedList , Loop Via +/ HashMap , HashSet , Iterator , Set . </br>
- array file Q from :https://www.w3resource.com/java-exercises/array/index.php
+ Array file Q from :https://www.w3resource.com/java-exercises/array/index.php
